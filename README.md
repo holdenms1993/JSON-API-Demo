@@ -2,7 +2,7 @@
 
 This is an API demonstration that shows POST/GET and authentication methods for an API. It demonstrates a simple JSON structure and how to create items and update prices.
 
-Use https://www.postman.com/ as an easy way to test this API if you run the app.py API application.
+Use https://www.postman.com/ as an easy way to test this API if you run the app.py API.
 
 app.py: The main API app. Includes GET and POST methods.
 
